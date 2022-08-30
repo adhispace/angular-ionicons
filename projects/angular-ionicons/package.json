@@ -1,10 +1,24 @@
 {
   "name": "angular-ionicons",
   "version": "0.0.1",
+  "author": {
+    "name": "Adhithyan S",
+    "email": "adhicool91@gmail.com",
+    "url": "https://adhispace.github.io"
+  },
+  "description": "A wrapper library to use ionicons in angular",
+  "keywords": [
+    "angular",
+    "icons",
+    "ionicons",
+    "angular ionicons"
+  ],
+  "license": "MIT",
   "peerDependencies": {
     "@angular/common": "^14.1.0",
     "@angular/core": "^14.1.0"
   },
+  "homepage": "https://github.com/adhispace/angular-ionicons",
   "dependencies": {
     "tslib": "^2.3.0"
   }
