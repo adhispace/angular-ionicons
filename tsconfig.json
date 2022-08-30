@@ -2,6 +2,11 @@
 {
   "compileOnSave": false,
   "compilerOptions": {
+    "paths": {
+      "angular-ionicons": ["dist/angular-ionicons"],
+      "@angular/*": ["./node_modules/@angular/*"],
+      "mylib/*": ["./projects/angular-ionicons/src/*"]
+    },
     "baseUrl": "./",
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
